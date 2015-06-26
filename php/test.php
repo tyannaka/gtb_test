@@ -1,2 +1,3 @@
 <?php
-echp 'test';
+echo 'test';
+echo 'test2';
